@@ -6,6 +6,9 @@ Obligatory matrix character flow written with ncurses.
 The intention of this project is to help me learn C and get used to vim.
 
 HISTORY
+    Version 2.1
+        Fixed an off by one error that was causing pointers to point too far.
+        
     Version 2.0
         Uses ncurses to print flows of random characters to a random initial
         column and animates the flows as if they were falling. There is also a 
