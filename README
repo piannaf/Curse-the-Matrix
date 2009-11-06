@@ -1,0 +1,12 @@
+Curse The Matrix
+Copyright (c) Justin Mancinelli
+
+Obligatory matrix character flow written with ncurses.
+
+The intention of this project is to help me learn C and get used to vim.
+
+HISTORY
+	Version 1.0
+		Simply uses ncurses to print a random character to the next
+		column of the terminal then loops back around when it reaches
+		the end.
