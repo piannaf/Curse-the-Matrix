@@ -6,6 +6,14 @@ Obligatory matrix character flow written with ncurses.
 The intention of this project is to help me learn C and get used to vim.
 
 HISTORY
+    Version 3.0
+        --Rewrote a lot of the source to break it into multiple files and make it
+        cleaner.
+        --Added a menu to change the number of flows, renter the matrix, or go
+        back to the real world. (Limiting FPS doesn't work yet)
+        --Tried my hand at a Makefile. (It works on my eeepc but not in my
+        coLinux with Debian)
+        
     Version 2.1
         Fixed an off by one error that was causing pointers to point too far.
         
